@@ -8,3 +8,11 @@ En esta práctica se perocura entender y aplicar métodos de Análisis Multivari
 4. Buscar patrones acoplados entre el campo a predecir y el campo predictor.
 
 ![El Niño](https://www.google.com/search?q=eof+el+ni%C3%B1o&rlz=1C1GCEA_enES1032ES1032&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKwvvk1Pb7AhVHU6QEHZ_MDA4Q_AUoAnoECAIQBA&biw=638&bih=671&dpr=1.5#imgrc=Q17kz4y0iCeiAM)
+
+
+- [ ] Apartado 1
+- [ ] Apartado 2
+- [ ] Apartado 3
+- [ ] Apartado 4
+
+
