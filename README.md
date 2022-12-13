@@ -8,7 +8,11 @@ En esta práctica se perocura entender y aplicar métodos de Análisis Multivari
 3. EOF de tu matriz de extremos y relación con índices de extremos.
 4. Buscar patrones acoplados entre el campo a predecir y el campo predictor.
 
-![El Niño](https://www.google.com/search?q=eof+el+ni%C3%B1o&rlz=1C1GCEA_enES1032ES1032&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiKwvvk1Pb7AhVHU6QEHZ_MDA4Q_AUoAnoECAIQBA&biw=638&bih=671&dpr=1.5#imgrc=Q17kz4y0iCeiAM)
+
+
+![El Niño](a-The-simulated-ENSO-related-SST-anomalies-derived-from-the-EOF-analysis-and-b.png)
+
+
 
 
 - [ ] Apartado 1
