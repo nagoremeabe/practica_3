@@ -12,7 +12,7 @@ En esta práctica se perocura entender y aplicar métodos de Análisis Multivari
 
 
 - [ ] Apartado 1
-- [ ] Apartado 2
+- [x] Apartado 2
 - [ ] Apartado 3
 - [ ] Apartado 4
 
